@@ -26,10 +26,12 @@ print('dry off!')
 
 """ breaking out of a loop """
 
+"""this is a block of code"""
 while True:
     line = input('> ')
     if line == 'done' :
         break
     print(line)
+"""this is a block of code"""
 print('Done!')
 
