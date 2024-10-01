@@ -58,3 +58,13 @@ friends = ['joseph', 'glenn','sally']
 for friend in friends :
     print('happy new year:', friend)
 print('done!')
+
+""" looping through a set """
+
+print('before')
+
+for thing in [9, 41, 12, 3, 74, 15] :
+    print(thing)
+
+print('after')
+
